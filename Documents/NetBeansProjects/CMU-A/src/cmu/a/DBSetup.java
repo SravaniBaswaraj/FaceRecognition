@@ -95,7 +95,7 @@ public class DBSetup {
 
     private void populateTables(Connection conn) {
         try {
-            String directoryPath = "C:\\Users\\ppsra\\Documents\\NetBeansProjects\\sampleconnection\\";
+            String directoryPath = "C:\\Users\\ppsra\\Documents\\NetBeansProjects\\CMU-A\\";
             String StudentInfoFile = directoryPath + "StudentInfo.csv";
             String VisitDetailsFile = directoryPath + "VisitDetails.csv";
             String AnnouncementFile = directoryPath + "Announcements.csv";

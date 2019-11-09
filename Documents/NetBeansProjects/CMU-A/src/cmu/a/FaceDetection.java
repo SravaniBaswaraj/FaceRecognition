@@ -194,7 +194,7 @@ public class FaceDetection extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-        webSource = new VideoCapture(-1); // video capture from default cam
+        webSource = new VideoCapture(1); // video capture from default cam
         myThread = new DaemonThread(); //create object of threat class
         Thread t = new Thread(myThread);
         t.setDaemon(true);

@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Sat Nov 09 12:13:50 ACDT 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016e-4dd4-ee5c-00000af5a188 
-on database directory C:\Users\ppsra\Documents\NetBeansProjects\CMU-A\faceRecTrial with class loader sun.misc.Launcher$AppClassLoader@5e481248 
+Sat Nov 09 18:03:04 ACDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016e-4f14-a891-00000af52258 
+on database directory C:\Users\ppsra\Documents\NetBeansProjects\CMU-A\faceRecTrial with class loader sun.misc.Launcher$AppClassLoader@266474c2 
 Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_111/db/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_111-b14
