@@ -12,7 +12,7 @@ import org.opencv.face.*;
 public class FaceRecognitionEigenFaces {
 	public static String basePath=System.getProperty("user.dir");
 
-	public static String csvFilePath="C:\\Users\\himanshu\\Desktop\\Personal\\PHOTO AND SIGN\\hello.txt";
+	public static String csvFilePath="images\\TrainingData.txt";
 	public static void main(String[] args) {
 		System.out.println("Loading library..");
 		System.loadLibrary("opencv_java412");

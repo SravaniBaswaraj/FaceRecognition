@@ -1,0 +1,11 @@
+images\brad_1.jpg;1
+images\brad_2.jpg;1
+images\brad_3.jpg;1
+images\brad_4.jpg;1
+images\brad_5.jpg;1
+images\brad_6.jpg;1
+images\leonardo_2.jpg;2
+images\leonardo_3.jpg;2
+images\leonardo_5.jpg;2
+images\leonardo_6.jpg;2
+images\leonardo_7.jpg;2
